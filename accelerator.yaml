@@ -1,0 +1,13 @@
+accelerator:
+  displayName: acc-git-action
+  description: ""
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  tags: []
+  options:
+  - name: commands
+    label: Nice Label
+    inputType: textarea
+    display: true
+    defaultValue: ""
+engine:
+  type: YTT
